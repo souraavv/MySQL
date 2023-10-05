@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Hi 
 there 
 Adding third line
+=======
+Hi There!
+
+>>>>>>> 7ff144cfc23a5aaf2e23503934f07604ca2d8607
